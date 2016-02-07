@@ -1,0 +1,15 @@
+[pack]
+	buildbitmaps = false
+[core]
+	symlinks = false
+	repositoryformatversion = 0
+	filemode = false
+	logallrefupdates = true
+	bare = false
+[remote "origin"]
+	url = https://hasanDAM@github.com/hasanDAM/ejercicio10Bq1.git
+	url = https://hasanDAM@github.com/hasanDAM/Ejercicio10Bloq1.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master
