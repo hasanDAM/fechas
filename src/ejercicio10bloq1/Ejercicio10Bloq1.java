@@ -17,5 +17,8 @@ public class Ejercicio10Bloq1 {
         }
         System.out.println("El factorial es =: "+factorial);
     }
-   
+    public void commit()
+    {
+        System.out.print(" Segunda Version 0.2 ");
+    }
 }
